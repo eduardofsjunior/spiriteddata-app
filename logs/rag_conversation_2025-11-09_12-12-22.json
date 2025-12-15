@@ -1,0 +1,24 @@
+{
+  "metadata": {
+    "start_time": "2025-11-09T12:12:17.294726",
+    "end_time": "2025-11-09T12:12:22.352740",
+    "total_queries": 1,
+    "total_tokens": 417,
+    "total_cost": 0.0006640000000000001
+  },
+  "history": [
+    {
+      "role": "user",
+      "content": "What is the emotional arc of Spirited Away?"
+    },
+    {
+      "role": "assistant",
+      "content": "The emotional arc of \"Spirited Away\" is characterized by a neutral sentiment overall (0.03). The emotional peak occurs at minute 103, while the lowest point is at minute 80. Some of the top positive moments include minutes 103, 104, and 109, while the top negative moments are at minutes 80, 81, and 82."
+    }
+  ],
+  "statistics": {
+    "session_duration_seconds": 5,
+    "average_response_time": 4.439208458003122,
+    "queries_per_minute": 11.862417311537326
+  }
+}

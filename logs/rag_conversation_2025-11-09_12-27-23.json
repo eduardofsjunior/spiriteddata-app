@@ -1,0 +1,24 @@
+{
+  "metadata": {
+    "start_time": "2025-11-09T12:27:18.348802",
+    "end_time": "2025-11-09T12:27:23.762526",
+    "total_queries": 1,
+    "total_tokens": 456,
+    "total_cost": 0.000741
+  },
+  "history": [
+    {
+      "role": "user",
+      "content": "Compare the emotional arc of Spirited Away between English and French"
+    },
+    {
+      "role": "assistant",
+      "content": "The emotional arc comparison between English and French versions of \"Spirited Away\" shows an average correlation of 0.118. The most similar and divergent pair is EN-FR with a correlation of 0.118. Key divergence points occur at minutes 3, 10, and 4. In the French version, emotional peaks at minutes 5 and 4 are driven by specific dialogues, indicating differences in emotional tones between translations. Divergence points at minutes 3 and 10 highlight significant emotional variance due to translation choices or cultural adaptation."
+    }
+  ],
+  "statistics": {
+    "session_duration_seconds": 5,
+    "average_response_time": 4.440001292008674,
+    "queries_per_minute": 11.083019760839516
+  }
+}

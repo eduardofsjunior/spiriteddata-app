@@ -1,0 +1,24 @@
+{
+  "metadata": {
+    "start_time": "2025-11-10T10:59:49.922718",
+    "end_time": "2025-11-10T11:41:55.827580",
+    "total_queries": 1,
+    "total_tokens": 1249,
+    "total_cost": 0.002196
+  },
+  "history": [
+    {
+      "role": "user",
+      "content": "Show me the emotional arc of Spirited Away"
+    },
+    {
+      "role": "assistant",
+      "content": "I have successfully retrieved the emotional arc of Spirited Away along with a comparison of emotional arcs across different languages. Here are some key insights:\n\n### Emotional Arc Summary:\nThe emotional arc of Spirited Away showcases various peaks and valleys, reflecting the dynamic emotional journey of the characters throughout the film.\n\n### Most Impactful Moments:\n- **In Arabic (AR):**\n  - Emotional peak at minute 103: \"- طفلي ! - انها مجرد قذارة\" (emotion score: 0.217)\n  - Emotional peak at minute 104: \"سوف تعيد لي ابني بمقابل شيء ما\" (emotion score: 0.207)\n\n- **In English (EN):**\n  - Emotional peak at minute 116: \"If you make Sen cry, I won't like you anymore, Baba\" (emotion score: 0.162)\n  - Emotional peak at minute 114: \"I remember too, how you fell into me as a child\" (emotion score: 0.159)\n\n- **In Spanish (ES):**\n  - Emotional peak at minute 13: \"¡ Despierta ! ¡ Despierta !?\" (emotion score: 0.163)\n  - Emotional peak at minute 11: \"¡ Casi es de noche ! Vete antes de que oscurezca\" (emotion score: 0.162)\n\n- **In French (FR):**\n  - Emotional peak at minute 5: \"La gare est peut-être proche.\" (emotion score: 0.190)\n  - Emotional peak at minute 4: \"Et alors ? Ils ont les clés. Ils doivent tout installer, non ?\" (emotion score: 0.174)\n\n- **In Dutch (NL):**\n  - Emotional peak at minute 40: \"Hou je verstand erbij, nu. Als je iets nodig hebt, vraag het me, Oké ?\" (emotion score: 0.150)\n  - Emotional peak at minute 39: \"Als ze dan nog nutteloos is, rooster haar, kook haar, doe met haar wat je wil\" (emotion score: 0.130)\n\n### Divergence Points:\n- **At minute 10:**\n  - Arabic uses \"انه مركز سباحة\" while English uses \"Weird...\". \n  - Spanish uses \"Fantastico...\" resulting in emotional variance.\n\n- **At minute 11:**\n  - Spanish uses \"¡ Casi es de noche ! Vete antes de que oscurezca\" while Dutch uses \"Ik zal ze afleiden. Keer terug over de rivier ! ?\" leading to emotional differences.\n\n### Archive Features Used:\n📚 Emotion Archive: Subtitle sentiment analysis\n📊 Multilingual Insights: Emotional arc comparison\n🌐 Language Comparison: Emotional peaks and divergence points\n\nWould you like to delve deeper into specific emotional moments or explore further aspects of the emotional journey in Spirited Away?"
+    }
+  ],
+  "statistics": {
+    "session_duration_seconds": 2525,
+    "average_response_time": 16.914346667006612,
+    "queries_per_minute": 0.023753864056902045
+  }
+}

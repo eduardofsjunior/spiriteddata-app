@@ -1,0 +1,24 @@
+{
+  "metadata": {
+    "start_time": "2025-11-10T11:42:05.434472",
+    "end_time": "2025-11-10T11:42:19.828121",
+    "total_queries": 1,
+    "total_tokens": 606,
+    "total_cost": 0.0009135
+  },
+  "history": [
+    {
+      "role": "user",
+      "content": "Hi"
+    },
+    {
+      "role": "assistant",
+      "content": "Hello! How can I assist you today?"
+    }
+  ],
+  "statistics": {
+    "session_duration_seconds": 14,
+    "average_response_time": 2.2469567079970147,
+    "queries_per_minute": 4.168509784847231
+  }
+}

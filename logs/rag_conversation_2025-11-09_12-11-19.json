@@ -1,0 +1,24 @@
+{
+  "metadata": {
+    "start_time": "2025-11-09T12:11:11.960414",
+    "end_time": "2025-11-09T12:11:19.052815",
+    "total_queries": 1,
+    "total_tokens": 391,
+    "total_cost": 0.000612
+  },
+  "history": [
+    {
+      "role": "user",
+      "content": "What is the emotional arc of Spirited Away?"
+    },
+    {
+      "role": "assistant",
+      "content": "It appears there is a persistent issue with retrieving the emotional arc data for \"Spirited Away.\" Unfortunately, the sentiment analysis for the film is currently unavailable. If you have any other questions or need assistance with a different topic, feel free to ask."
+    }
+  ],
+  "statistics": {
+    "session_duration_seconds": 7,
+    "average_response_time": 6.568449290993158,
+    "queries_per_minute": 8.459806261976794
+  }
+}

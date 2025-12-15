@@ -1,0 +1,24 @@
+{
+  "metadata": {
+    "start_time": "2025-11-09T12:28:06.361078",
+    "end_time": "2025-11-09T12:28:11.709833",
+    "total_queries": 1,
+    "total_tokens": 482,
+    "total_cost": 0.0007934999999999999
+  },
+  "history": [
+    {
+      "role": "user",
+      "content": "Compare emotional peaks between English and Spanish for Spirited Away"
+    },
+    {
+      "role": "assistant",
+      "content": "The emotional peaks in English and Spanish for \"Spirited Away\" show some divergence and alignment. The average correlation across language pairs is 0.228, with the most similar pair being English-Spanish. Divergence points occur at minutes 14, 15, and 13. In Spanish, the emotional peak at minute 13 is driven by the dialogue \"¡ Despierta ! ¿¡ Despierta !?\", emphasizing different emotional tones compared to English. At minute 14, translations diverge significantly, with Spanish using \"No tengas miedo, soy un amigo\" and English using \"Don't be afraid, I'm a friend,\" showcasing translation and cultural adaptation differences."
+    }
+  ],
+  "statistics": {
+    "session_duration_seconds": 5,
+    "average_response_time": 4.198963791015558,
+    "queries_per_minute": 11.217645505949466
+  }
+}

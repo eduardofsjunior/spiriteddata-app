@@ -1,0 +1,8 @@
+# Production dependencies for SpiritedData Streamlit App
+pandas>=2.2.0
+duckdb>=0.10.0
+streamlit>=1.31.0
+plotly>=5.18.0
+python-dotenv>=1.0.0
+pyyaml>=6.0.0
+scipy>=1.11.0
